@@ -1,4 +1,6 @@
 /**
  * Created by himanshu on 31/12/15.
  */
-console.log("changes to commit in branch1");
+console.log("Heya Branch123!!");
+
+console.log("change for branch2");
